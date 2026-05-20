@@ -68,14 +68,31 @@ Frontend Developer • Angular Enthusiast • JavaScript Explorer 🚀
 
 ---
 
-## 💡 Quote I Believe In
+## 🌍 Contribution Calender
 
+ 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://ghchart.rshah.org/bhanukh" />
 </p>
 
 ---
 
+## 📈 Profile Summary Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanukh&theme=tokyonight" />
+</p>
+
+---
+
+
+
+
+<p align="center">
+✨ “Code. Learn. Build. Repeat.” ✨
+</p>
+
+
+---
 ## 👀 Profile Views
 
 <p align="center">
@@ -84,6 +101,7 @@ Frontend Developer • Angular Enthusiast • JavaScript Explorer 🚀
 
 ---
 
-<p align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
-</p>
+
+
+
+
