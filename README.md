@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhani Ram</h1>
+<h1 align="center">Hi 👋, I'm Bhanu Khandelwal</h1>
 
 <h3 align="center">
 Frontend Developer • Angular Enthusiast • JavaScript Explorer 🚀
