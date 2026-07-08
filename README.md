@@ -37,9 +37,7 @@ Frontend Developer • Angular Enthusiast • JavaScript Explorer 🚀
 ## 🛠️ Languages and Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,react,redux,nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
-
 </p>
 
 ---
